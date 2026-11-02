@@ -1,0 +1,1 @@
+window.VN_DATA = {};
